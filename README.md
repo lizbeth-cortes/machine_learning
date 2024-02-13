@@ -1,2 +1,2 @@
 # Fundamento de procesamiento de imágenes
-Desarrollar un sistema de procesamiento de imágenes con machine learning. Reconocer cómo las operaciones simples en las imágenes pueden llevar a generar descriptores robustos y complejos para la tarea de clasificación con Machine Learning.
+Repositorio que contiene los recursos necesarios para poder desarrollar un sistema de procesamiento de imágenes con machine learning. Se abordará la tarea de clasificar 3 diferentes tipos de flores utilizando técnicas de procesamiento de imágenes y aprendizaje automático. El objetivo es construir un modelo capaz de reconocer automáticamente la especie de una flor a partir de su imagen.
